@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/f4-dictionary-react-project/static/css/main.fcffd3d0.css",
+    "main.js": "/f4-dictionary-react-project/static/js/main.77e48c18.js",
+    "static/js/787.951cf9d5.chunk.js": "/f4-dictionary-react-project/static/js/787.951cf9d5.chunk.js",
+    "static/media/XOsX.gif": "/f4-dictionary-react-project/static/media/XOsX.432183c5377af636f196.gif",
+    "static/media/logo.svg": "/f4-dictionary-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/f4-dictionary-react-project/index.html",
+    "main.fcffd3d0.css.map": "/f4-dictionary-react-project/static/css/main.fcffd3d0.css.map",
+    "main.77e48c18.js.map": "/f4-dictionary-react-project/static/js/main.77e48c18.js.map",
+    "787.951cf9d5.chunk.js.map": "/f4-dictionary-react-project/static/js/787.951cf9d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcffd3d0.css",
+    "static/js/main.77e48c18.js"
+  ]
+}
